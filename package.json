@@ -3,7 +3,7 @@
   "description": "Portable test runner for browser and server!",
   "version": "1.0.2",
   "type": "module",
-  "main": "index.js",
+  "main": "cletus.js",
   "scripts": {
     "save": "git add .; git commit -m 'Updated Release'; npm version patch; npm publish; git push --follow-tags;"
   },
